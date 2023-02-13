@@ -8,7 +8,8 @@ example usgage:
 ./RMSAD_tool.py Ti0.5V0.5
 
 -This script uses pymatgen (https://pymatgen.org/) to process the input string and is thus a requirement for the script to work. Depending on the version of pymatgen you have installed, lines 3 and 380 may need to be modified (https://matsci.org/t/python-problem-with-pymatgen/35720)
+-numpy (https://numpy.org/) is also a dependency
 -This tool is currently only able to make predictions for compositions containing Ti,Zr,Hf,V,Nb,Ta,Mo,W,Re,Ru and will return an error if any other elements are present in the input
+-B2 and elemental feature data are defined in dictionaries at the beginning of the code
 
-Thing1.csv contains xyz data
-Thing2.csv contains abc data
+training.ipynb and training_data.csv contains code and data to reproduce the rmsad model training that was performed in the paper
