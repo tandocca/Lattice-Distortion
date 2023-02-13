@@ -13,4 +13,4 @@ example usgage:
 -B2 and elemental feature data are defined in dictionaries at the beginning of the code
 
 training.ipynb and training_data.csv contains code and data to reproduce the rmsad model training that was performed in the paper
--jupyter notebook is needed to open training.ipynb, dependencies are numpy,pymatgen,matplotlib,pandas, and sklearn
+-jupyter notebook is needed to open training.ipynb, dependencies are numpy,pymatgen,matplotlib(https://matplotlib.org/),pandas(https://pandas.pydata.org/), and sklearn(https://scikit-learn.org/stable/)
