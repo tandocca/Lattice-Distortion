@@ -1,6 +1,10 @@
 # Lattice-Distortion
 
-This repository contains relevant code and data for "Mining lattice distortion, strength, and intrinsic ductility of refractory high-entropy alloys using physics-informed statistical learning" by Christopher Tandoc, Yong-Jie Hu, Liang Qi, and Peter K. Liaw to be published in npj Computational Materials
+This repository contains relevant code and data for "Mining lattice distortion, strength, and intrinsic ductility of refractory high-entropy alloys using physics-informed statistical learning" by Christopher Tandoc, Yong-Jie Hu, Liang Qi, and Peter K. Liaw. 
+https://doi.org/10.1038/s41524-023-00993-x
+Tandoc, C., Hu, Y. J., Qi, L., & Liaw, P. K. (2023). Mining of lattice distortion, strength, and intrinsic ductility of refractory high entropy alloys. npj Computational Materials, 9(1), 53.
+
+https://www.nature.com/articles/s41524-023-00993-x
 
 RMSAD_tool.py is a linux command line script written in python that takes a chemical composition in the form of a text string and prints the lattice distortion in angstroms. 
 
